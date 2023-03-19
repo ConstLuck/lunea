@@ -1,1 +1,1 @@
-# Lunea: an open-source incremental/idle (MMO)RPG game the browser
+# Lunea: an open-source incremental/idle (MMO)RPG game in the browser
